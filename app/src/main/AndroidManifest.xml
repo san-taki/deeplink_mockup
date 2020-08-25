@@ -23,7 +23,7 @@
         <activity
             android:name=".GizmosActivity"
             android:label="gizmos" >
-            <intent-filter android:label="@string/filter_view_http_gizmos">
+            <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
@@ -33,7 +33,7 @@
                     android:pathPrefix="/gizmos" />
                 <!-- note that the leading "/" is required for pathPrefix-->
             </intent-filter>
-            <intent-filter android:label="@string/filter_view_example_gizmos">
+            <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />

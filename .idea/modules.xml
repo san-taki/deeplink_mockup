@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/DeepLinkMockUp.iml" filepath="$PROJECT_DIR$/.idea/modules/DeepLinkMockUp.iml" group="DeepLinkMockUp" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="DeepLinkMockUp/app" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app2/app2.iml" filepath="$PROJECT_DIR$/.idea/modules/app2/app2.iml" group="DeepLinkMockUp/app2" />
     </modules>
   </component>
 </project>
